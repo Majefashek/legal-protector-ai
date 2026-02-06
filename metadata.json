@@ -1,0 +1,8 @@
+{
+  "name": "Legal Protector AI",
+  "description": "A professional legal assistant powered by Gemini 2.5, designed to protect constitutional rights in Nigeria during interactions with law enforcement.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
